@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc1014571c774746b72cfd7e2115bf3, type: 3}
+  m_Name: Parameters
+  m_EditorClassIdentifier: 
+  HiddenLayer: 5
+  input: 1
+  Invert: 1
+  CenterDetection: 1
+  RayLength: 3
+  theta: 30
+  offset: 0.2
+  UseTimeMask: 1
+  output: 2
+  population_count: 60
+  chernobyl_rate: 0.2
+  chernobyl_magnitude: 0.25
+  clamping: 1
+  best_n: 5
+  IncludePrevGen: 1
+  BestStay: 1
+  selectionmode: 0
+  maxhealth: 0
+  afk_kill: 0
+  afk: 5
+  singlelineafkkill: 0
+  singlelineafk: 15
+  corner: 0
+  side: 0
+  SpeedUp: 5
+  PlayMode: 0
+  LoadIndex: 10
+  epilepsy: 0
+  ShakeScreen: 0
+  DamageGlow: 0
+  HideBot: 0
+  HideLaser: 0

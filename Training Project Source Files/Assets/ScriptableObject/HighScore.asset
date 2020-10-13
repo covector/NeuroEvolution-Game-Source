@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c016988438fba6c498f9bb0336993e7f, type: 3}
+  m_Name: HighScore
+  m_EditorClassIdentifier: 
+  HighScoreTable:
+  - 19.8
+  - 26.4
+  - 32.399998
+  - 27.200003
+  - 26.599998
+  - 34.2
+  - 36.19999
+  - 28.000011
+  - 56.399994
+  - 36.600018
+  - 31.19999
+  - 34.399986
+  - 37.999992
+  - 37.800026
+  - 49.19998
+  - 37.400017
+  - 40.999985
+  - 33.08056
+  - 27.919426
+  - 38.00003
+  - 37.599945
+  - 45.40001
+  - 36.399994
+  - 52.000046
+  - 30.599976
+  - 33.600006
+  - 60.999985
+  - 46.600037
+  - 45.799942
+  - 40.60005
+  - 39.000015
+  - 25.054016
+  - 29.345932
+  HighestScore: 60
